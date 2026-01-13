@@ -1,0 +1,2 @@
+# STM32-AHRS
+Embedded 6-DOF AHRS using STM32 and MPU-6050
